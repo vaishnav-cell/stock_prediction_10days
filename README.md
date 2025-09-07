@@ -54,7 +54,13 @@ Results
 - The model successfully captures trends in stock prices.  
 - Future predictions for the next 10 days are generated and visualized.  
 
-*(Add sample prediction graphs here once available)*
+Results
+
+The model successfully captures trends in stock prices.  
+Future predictions for the next 10 days are generated and visualized.  
+
+![10-day Rolling Forecast](Screenshot%202025-09-07%20125303.png)
+
 
 ---
 
