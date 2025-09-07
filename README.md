@@ -21,12 +21,7 @@ Features
 - Prediction of stock prices for the next **10 days**  
 - Graphical comparison of actual vs predicted prices  
 
----
 
-Project Structure
-.
-├── Stock_prediction_next_10days_using_lstm.ipynb   # Main Jupyter Notebook
-├── README.md                                       # Project documentation
 
 
 ---
