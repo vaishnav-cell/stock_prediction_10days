@@ -29,7 +29,7 @@ Features
 Technologies Used
 
 - Python 3.x  
-- Jupyter Notebook  
+- Google colab Notebook  
 - NumPy, Pandas (Data Handling)  
 - Matplotlib (Visualization)  
 - scikit-learn (Preprocessing)  
